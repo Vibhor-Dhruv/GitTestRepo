@@ -1,5 +1,4 @@
-Child 1 pull and ush and merge with master
-
+Push Child 1 to local repo
 
 
 
